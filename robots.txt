@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://investicii-obuchenie.vercel.app/sitemap.xml
